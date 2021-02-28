@@ -1,3 +1,6 @@
+### Sobre: 
+
+Com esse projeto será possivel pegar qual tema está selecionado no dispositivo do usuario e fazer a aplicação de adaptar ao ColorScheme baseado no tema selecionado usando o styled components. <br>
 
 ### Instalação:
 

@@ -10,4 +10,4 @@
     npm start    <br>
     npx react-native run-android
   
-![gif](https://github.com/hsjferson/darkmode-styledcomponent/blob/master/src/themes/untitled.gif = 250x250)
+![gif](https://github.com/hsjferson/darkmode-styledcomponent/blob/master/src/themes/nvideo.gif)
